@@ -11,5 +11,9 @@ public class NewBoard {
 	@RequestMapping("/home")
 	public String getHome() {
 		return "/testBoard/Newboard";
+		
+		
+		
+		
 	}
 }
