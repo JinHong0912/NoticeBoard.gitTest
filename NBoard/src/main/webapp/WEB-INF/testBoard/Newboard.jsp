@@ -112,7 +112,11 @@ table.type11 {
 	border-spacing: 1px;
 	text-align: center;
 	line-height: 1.5;
-	margin: 20px 10px;
+	argin-top: 20px;
+	
+    /* line-height: 1.5; */
+    margin-top: 20px;
+	
 }
 
 table.type11 th {
